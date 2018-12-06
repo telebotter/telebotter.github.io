@@ -1,1 +1,5 @@
-theme: jekyll-theme-time-machine
+title: Telebotter
+description: Alles ist besser mit Telegrambot
+show_downloads: false
+google_analytics:
+theme: jekyll-theme-slate
